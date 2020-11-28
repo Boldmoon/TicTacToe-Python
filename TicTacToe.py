@@ -219,7 +219,7 @@ while True:
         continue
     elif (ask == "No") or (ask == "no") or (ask == "n") or (ask == "N"):
         print("\nA project developed and maintained by Harish")
-        print("\nFor more information visit www.goldmoon.in")
+        print("\nFor more information visit https://github.com/Boldmoon")
         print("\nThank you for playing TicTackleToe© :)")
         time.sleep(60)
         break
